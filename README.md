@@ -1,8 +1,8 @@
 # AXIS_ImageStream_client_server
 
-Authors: Angelos Papangelis, George Kyriakou, Luca Pinder Romano
+---Authors: Angelos Papangelis, George Kyriakou, Luca Pinder Romano---
 
-Date: 12/12/16
+---Date: 12/12/16---
 
 
 This project was part of an assignment for the Computer Science masters program at Malmö Högskola, Sweden. 
